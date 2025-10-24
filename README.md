@@ -36,5 +36,3 @@
 </p>
 
 ---
-
-✨ *Designed with ❤️ for Midterms Lab Tasks*
