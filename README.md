@@ -22,5 +22,3 @@
   <iframe src="asset/Midterm Lab Task 1 - Quiambao_AronDaniel_B.pdf" width="100%" height="600px" style="border:none;">
   </iframe>
 </p>
-
----
