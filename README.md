@@ -1,6 +1,8 @@
-<!-- ====== MIDTERM LAB TASK TEMPLATE ====== -->
+<h1 align="center" style="font-size:2.2em; font-weight:bold;">Midterm Lab Task 1</h1>
 
-<h1 align="center" style="font-size:2.2em; font-weight:bold;">📜 Contents 📜</h1>
+---
+
+<h2 align="center" style="font-size:1.8em; font-weight:bold;">📜 Contents 📜</h2>
 
 ---
 
